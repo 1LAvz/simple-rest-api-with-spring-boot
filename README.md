@@ -1,5 +1,3 @@
-# simple-rest-api-with-spring-boot
-
 ## Simple CRUD RESTful API with Spring using TDD principles and Spring Secutiry
 
 ## Must reading:
